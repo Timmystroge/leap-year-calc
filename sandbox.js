@@ -2,7 +2,7 @@
 Leap Year can be:
     evenly divided by 4
     cannot be evenly divided by 100
-    ecenly divided by 400
+    evenly divided by 400
 */
 
 const { log } = console;

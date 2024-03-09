@@ -1,0 +1,1 @@
+this script takes in "year" e.g(2024, 2000, 1800, 2028) as argument and return true or false if the year is a leap year or not
